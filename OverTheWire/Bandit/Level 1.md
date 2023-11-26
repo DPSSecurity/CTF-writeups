@@ -3,9 +3,9 @@ The password for the next level is stored in a file called readme located in the
 
 # Solution
 Run: `ls -alh` to list the file in the current directory.<br>
->-a = list hidden files
->-l = long-list format
->-h = human-readable format
+>-a = list hidden files<br>
+>-l = long-list format<br>
+>-h = human-readable format<br>
 
 The `readme` file is in the current directory. Run: `cat readme` to view the password for the next level.<br>
 
