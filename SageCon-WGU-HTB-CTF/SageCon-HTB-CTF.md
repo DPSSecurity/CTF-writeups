@@ -11,8 +11,9 @@ My team (SpaceCats) placed 6th! In total, there were 218 participants and 13 fla
 
 |Challenge|Difficulty|
 |---------|----------|
-|[Samantha Zephyr Williams]()|Easy|
+|[Samantha Zephyr Williams](/OSINT/SamanthaZephyrWilliams.md)|Easy|
 |[OOO Oasis]()|Easy|
+
 </details>
 
 <details>
