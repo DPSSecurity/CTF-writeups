@@ -12,7 +12,7 @@ My team (SpaceCats) placed 6th! In total, there were 218 participants and 13 fla
 |Challenge|Difficulty|
 |---------|----------|
 |[Samantha Zephyr Williams](/SageCon-WGU-HTB-CTF/OSINT/SamanthaZephyrWilliams.md)|Easy|
-|[OOO Oasis]()|Easy|
+|[OOO Oasis](/SageCon-WGU-HTB-CTF/OSINT/OOOOasis.md)|Easy|
 
 </details>
 
