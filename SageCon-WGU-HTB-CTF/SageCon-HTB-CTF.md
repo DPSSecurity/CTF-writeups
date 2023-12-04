@@ -24,7 +24,7 @@ My team (SpaceCats) placed 6th with a total of 3150 points and 8 flags captured.
 |Challenge|Difficulty|
 |---------|----------|
 |[Arcane Source](/SageCon-WGU-HTB-CTF/Web/ArcaneSource.md)|Easy|
-|[Commutify]|()|
+|[Commutify]()||
 
 </details>
 
@@ -36,7 +36,7 @@ My team (SpaceCats) placed 6th with a total of 3150 points and 8 flags captured.
 |---------|----------|
 |Simple RSA|Easy|
 |PSA Games|| 
-|[Me is Mey]|Medium|
+|[Me is Mey]()|Medium|
 
 </details>
 
