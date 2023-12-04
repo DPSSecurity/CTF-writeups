@@ -5,7 +5,7 @@ Samantha Zephyr Williams is a skilled computer science graduate and game develop
 
 ## Information
 Category: OSINT<br>
-Difficulty: Easy<br>
+Difficulty: Easy
 
 ## Solution
 
