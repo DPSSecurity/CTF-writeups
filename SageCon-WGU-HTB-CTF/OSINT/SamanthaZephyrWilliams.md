@@ -9,5 +9,5 @@ Difficulty: Easy
 
 ## Solution
 
-I searched for Samantha's username "sam4nexpl01t3r" on Twitter/X. She has a [profile](https://twitter.com/sam4nexpl01t3r).<br>
-Samantha tweeted a [QR code](https://x.com/sam4nexpl01t3r/status/1628719713273389060?s=20). Scanning it reveals the flag.
+I searched for Samantha's username "sam4nexpl01t3r" on Twitter/X and she has a [profile](https://twitter.com/sam4nexpl01t3r).<br>
+Samantha tweeted a [QR code](https://x.com/sam4nexpl01t3r/status/1628719713273389060?s=20) and scanning it reveals the flag.
