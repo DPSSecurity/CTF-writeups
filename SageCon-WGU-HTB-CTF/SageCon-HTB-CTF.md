@@ -54,7 +54,7 @@ My team (SpaceCats) placed 6th with a total of 3150 points and 8 flags captured.
 
 <details>
 
-<summary>Forensics</summary>summary>
+<summary>Forensics</summary>
 
 |Challenge|Difficulty|
 |---------|----------|
