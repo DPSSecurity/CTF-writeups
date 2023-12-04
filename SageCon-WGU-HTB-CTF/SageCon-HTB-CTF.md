@@ -45,7 +45,7 @@ My team (SpaceCats) placed 6th! In total, there were 218 participants and 13 fla
 
 |Challenge|Difficulty|
 |---------|----------|
-|[String Theory]()|Easy|
+|[String Theory](/SageCon-WGU-HTB-CTF/Reversing/StringTheory.md)|Easy|
 |Curse||
 |Going Back||
 
