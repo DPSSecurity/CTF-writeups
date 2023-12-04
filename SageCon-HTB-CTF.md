@@ -1,5 +1,5 @@
 # First Ever WGU CTF!
-### Dates: December 1st - 3rd | Sponsored by Hack The Box 
+### Dates: December 1st - 3rd | Sponsored by Hack The Box & Western Governors University
 
 My team (SpaceCats) placed 6th! In total, there were 218 participants and 13 flags. We solved 8 flags. 
 
